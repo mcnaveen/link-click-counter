@@ -1,4 +1,4 @@
-# Link Clicks Tracker
+# Link Clicks Counter
 
 Minimal Browser Extension to track link clicks and display the count in a badge.
 
